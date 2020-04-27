@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BEM VINDOS - ADDON TESTE[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white] BEM VINDOS [/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
 <thumbnail>https://ia801405.us.archive.org/0/items/bem-vindos_202004/bem%20vindos.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801405.us.archive.org/0/items/bem-vindos_202004/fanart.jpg</fanart>
@@ -15,8 +15,23 @@
 
 <channels>
 <channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]ENTRE AQUI[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
-<thumbnail>https://ia601405.us.archive.org/0/items/bem-vindos_202004/entrar.png</thumbnail>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/13/items/20200427-171617/20200427_171617.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://ia801405.us.archive.org/0/items/bem-vindos_202004/fanart.jpg</fanart>
+<info>
+
+
+[COLOR deeppink]|[/COLOR] - EM ATUALIZASAO - [COLOR deeppink]|[/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
+<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR orangered]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR indigo]|||[/COLOR]</name>
+<thumbnail>https://ia601505.us.archive.org/13/items/20200427-171617/20200427_043315.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://ia801405.us.archive.org/0/items/bem-vindos_202004/fanart.jpg</fanart>
 <info>
