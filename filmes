@@ -54,3 +54,13 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/jHNdwbUGd5gFQzxKGEXXhjhUVnC.jpg</fanart>
 <info>Happy Gilmore quer ser um jogador profissional de hóquei, mas acaba descobrindo que tem um talento muito especial para jogar golfe. O satírico e desbocado atleta acaba ganhando dinheiro suficiente para poder ajudar a sua avó, que está prestes a perder a casa por falta de pagamento de impostos. O problema é que esse maluco se torna um herói improvável para o esporte, o que desagrada bastante os golfistas, tão educados e elegantes.<info>
 </item>
+
+MODELO GDRIVE DE APENAS UM LINK
+
+<item>
+<title>Coringa 2<title>
+<link>plugin://plugin.video.gdrive?mode=https://drive.google.com/file/d/1faaybEyxzeBM1IQb7WjXuG30v00FjhNe/view?usp=drivesdk</link>
+<thumbnail>https://image.tmdb.org/t/p/w1280/rOYDI5EqtKrnr0IX271V7daRdaH.jpg</thumbnail>
+<fanart>https://ia801405.us.archive.org/0/items/bem-vindos_202004/fanart.jpg</fanart>
+<info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.<info>
+</item>
