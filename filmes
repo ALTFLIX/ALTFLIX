@@ -55,3 +55,16 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <fanart>https://image.tmdb.org/t/p/w1066_and_h600_bestv2/2WgieNR1tGHlpJUsolbVzbUbE1O.jpg</fanart>
 <info>Arthur Fleck (Joaquin Phoenix) trabalha como palhaço para uma agência de talentos e, toda semana, precisa comparecer a uma agente social, devido aos seus conhecidos problemas mentais. Após ser demitido, Fleck reage mal à gozação de três homens em pleno metrô e os mata. Os assassinatos iniciam um movimento popular contra a elite de Gotham City, da qual Thomas Wayne (Brett Cullen) é seu maior representante.<info>
 </item>
+
+MODELO COM VARIOS LINKS
+
+<item>
+<title>tfyfy<title>
+<link></link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=https://drive.google.com/file/d/1faaybEyxzeBM1IQb7WjXuG30v00FjhNe/view=[COLOR orange]HD[/COLOR] - LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 2</link>
+<link>URL AQUI$$lsname=[COLOR orange]HD[/COLOR] - LINK 3</link>
+<thumbnail>https://</thumbnail>
+<fanart></fanart>
+<info><info>
+</item>
