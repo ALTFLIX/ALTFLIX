@@ -55,8 +55,6 @@ MODELO UNIVERSAL DE APENAS UM LINK
 <info>Happy Gilmore quer ser um jogador profissional de hóquei, mas acaba descobrindo que tem um talento muito especial para jogar golfe. O satírico e desbocado atleta acaba ganhando dinheiro suficiente para poder ajudar a sua avó, que está prestes a perder a casa por falta de pagamento de impostos. O problema é que esse maluco se torna um herói improvável para o esporte, o que desagrada bastante os golfistas, tão educados e elegantes.<info>
 </item>
 
-MODELO GDRIVE DE APENAS UM LINK
-
 <item>
 <title>Coringa 2<title>
 <link>plugin://plugin.video.gdrive?mode=https://drive.google.com/file/d/1faaybEyxzeBM1IQb7WjXuG30v00FjhNe/view?usp=drivesdk</link>
